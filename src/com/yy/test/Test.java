@@ -5,4 +5,8 @@ package com.yy.test;
  */
 public class Test {
         private  int  id =1111;
+
+        public static void main(String[] args) {
+                System.out.println("测试提交！");
+        }
 }
